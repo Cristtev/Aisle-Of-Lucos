@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Cristtev/Aisle-Of-Lucos/refs/heads/main/AOL-Beta"))()
